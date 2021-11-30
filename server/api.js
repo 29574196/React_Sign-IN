@@ -9,7 +9,7 @@ const jwt = require('jsonwebtoken');
 const { request } = require('express');
 
 //const uri = "mongodb://localhost/GreenMeadows";
-const uri = "mongodb+srv://tenantUsers:GreenMeadows@cluster0.wt9gm.mongodb.net/ReactCRUD?retryWrites=true&w=majority";
+const uri = "mongodb+srv://gariz305:olaunited@cluster0.d8go8.mongodb.net/ReactCRUD?retryWrites=true&w=majority";
 
 const options = {
     useNewUrlParser: true,
